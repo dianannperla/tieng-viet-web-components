@@ -12,7 +12,7 @@
     "url": "git+https://github.com/yourusername/tieng-viet-web-components.git"
   },
   "keywords": ["Vietnamese", "web components", "UI components"],
-  "author": "Updated Author Name",
+  "author": "Your Updated Author Name",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
