@@ -1,0 +1,22 @@
+{
+  "name": "tieng-viet-web-components",
+  "version": "1.0.0",
+  "description": "Bộ thành phần web tùy chỉnh cho việc phát triển ứng dụng bằng tiếng Việt.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/tieng-viet-web-components.git"
+  },
+  "keywords": ["Vietnamese", "web components", "UI components"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "jest": "^27.0.0"
+  }
+}
