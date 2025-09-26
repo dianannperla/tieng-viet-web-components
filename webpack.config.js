@@ -6,12 +6,12 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'TiengVietWebComponents'
+    library: 'MyLibraryName'
   },
   module: {
     rules: [
       {
-        test: /\.jsx?$/,
+        test: /\ .jsx?$/, 
         exclude: /node_modules/, 
         use: {
           loader: 'babel-loader',
